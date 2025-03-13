@@ -2,8 +2,6 @@
 
 ## As an entry-level QA engineer, I bring fresh perspectives to testing processes and ensure software quality.
 
-My projects
-
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=097CDB)
