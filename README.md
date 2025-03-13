@@ -10,4 +10,5 @@ My projects
 ![Sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 ![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles&logoColor=E5D3FF)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ImyaPolzovatelyaMary)
